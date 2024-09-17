@@ -1,1 +1,1 @@
-# vaidya
+# vAIdya
